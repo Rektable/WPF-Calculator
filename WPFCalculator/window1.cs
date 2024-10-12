@@ -65,7 +65,7 @@ namespace Piannaf.Ports.Microsoft.Samples.WPF.Calculator
                 Icon="AppIcon.ico"
                 TextInput="OnWindowKeyDown"
                >*/
-            this.Title = "WPF Calculator";
+            this.Title = "Cringe Calculator";
             this.Height = 400;
             this.Width = 600;
             this.ResizeMode = ResizeMode.CanMinimize;
